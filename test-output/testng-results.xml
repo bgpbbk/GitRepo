@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19736" started-at="2016-08-02T14:34:32Z" finished-at="2016-08-02T14:34:51Z">
+  <suite name="Default suite" duration-ms="21614" started-at="2016-08-16T09:06:55Z" finished-at="2016-08-16T09:07:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19736" started-at="2016-08-02T14:34:32Z" finished-at="2016-08-02T14:34:51Z">
+    <test name="Default test" duration-ms="21614" started-at="2016-08-16T09:06:55Z" finished-at="2016-08-16T09:07:16Z">
       <class name="com.BookFlightTest.BookFlight2Test">
-        <test-method status="PASS" signature="BookFlightTest2way()[pri:0, instance:com.BookFlightTest.BookFlight2Test@61832929]" name="BookFlightTest2way" duration-ms="19723" started-at="2016-08-02T20:04:32Z" finished-at="2016-08-02T20:04:51Z">
+        <test-method status="PASS" signature="BookFlightTest2way()[pri:0, instance:com.BookFlightTest.BookFlight2Test@2b98378d]" name="BookFlightTest2way" duration-ms="21527" started-at="2016-08-16T14:36:55Z" finished-at="2016-08-16T14:37:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BookFlightTest2way -->
